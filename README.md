@@ -6,7 +6,7 @@ This 4 channel stepper motor driver board is the same size as the ESP32 Dev Kit 
 
 Features include:
 * Reverse Polarity protection
-* 12 GPIO header pins (4 Header pins include R/C Input filter)
+* 12 GPIO Pads (4 Pads include R/C Input filter) that allow direct soldering of wiring or 3 X 4 Dupont Header pins
 * Micro Step set to 1/8 (cannot be changed)
 * Adjustable current output (Max 800mA Peak)
 * Suitable for small Stepper Motors only
