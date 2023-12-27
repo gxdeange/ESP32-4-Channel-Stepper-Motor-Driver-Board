@@ -9,6 +9,7 @@ Features include:
 * 12 GPIO Pads (4 Pads include R/C Input filter) that allow direct soldering of wiring or 3 X 4 Dupont Header pins
 * Micro Step set to 1/8 (cannot be changed)
 * Adjustable current output (Max 800mA Peak)
+* Use of Texas Instruments DRV8428 Driver IC's
 * Suitable for small Stepper Motors only
 
 <img width="386" alt="ESP32 4 Channel Stepper Top" src="https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/94b55842-21ee-4c73-a741-d67a7a800544">
