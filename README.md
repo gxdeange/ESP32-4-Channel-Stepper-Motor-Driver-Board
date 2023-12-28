@@ -12,7 +12,7 @@ Features include:
 * Use of Texas Instruments DRV8428 Driver IC's
 * Suitable for small Stepper Motors only
 
-<img width="386" alt="ESP32 4 Channel Stepper Top" src="https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/94b55842-21ee-4c73-a741-d67a7a800544">
+![ESP32 4 Channel Stepper Driver](https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/b742409b-7b8b-4cf7-86d9-4431948145e5)
 
 # MCU / Stepper Pin Mappings
 
