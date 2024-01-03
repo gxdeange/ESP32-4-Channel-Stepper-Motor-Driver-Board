@@ -16,19 +16,7 @@ Features include:
 
 # MCU / Stepper Pin Mappings
 
-* Step1 : GPIO32
-* Dir1  : GPIO33
-
-* Step2 : GPIO25
-* Dir2  : GPIO26
-
-* Step3 : GPIO27
-* Dir3  : GPIO14
-
-* Step4 : GPIO12
-* Dir4  : GPIO13
-
-* Stepper EN : GPIO23
+![image](https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/3b4335df-dad3-4829-854e-fbf8a88532bd)
 
 # GPIO's with R/C Input Filter
 
