@@ -20,7 +20,7 @@ Features include:
 
 ![ESP32 4 Channel Stepper Driver](https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/b742409b-7b8b-4cf7-86d9-4431948145e5)
 
-**Version has 8 GPIO's with RC Filtered Inputs or 8 Buffered Scmitt Trigger Inputs**
+**These versions have 8 GPIO's with either RC Filtered Inputs or Buffered Scmitt Trigger Inputs**
 
 * GPIO39
 * GPIO34
