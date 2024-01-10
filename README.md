@@ -12,13 +12,26 @@ Features include:
 * Use of Texas Instruments DRV8428 Driver IC's
 * Suitable for small Stepper Motors only
 * Driver Board powers ESP32 Module (for wireless connectivity)
-**RC Filtered Inputs**
+* **RC Filtered Inputs**
 * GPIO39
 * GPIO34
 * GPIO17
 * GPIO35
 
 ![ESP32 4 Channel Stepper Driver](https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/b742409b-7b8b-4cf7-86d9-4431948145e5)
+
+**This version has 8 GPIO's with RC Filtered Inputs**
+
+* GPIO39
+* GPIO34
+* GPIO17
+* GPIO35
+* GPIO15
+* GPIO4
+* GPIO16
+* GPIO5
+
+<img width="386" alt="ESP32 4 Channel Stepper Driver 8 RC Inputs 24V" src="https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/7bbdb018-d93a-4415-a328-c40872010378">
 
 # MCU / Stepper Pin Mappings
 
