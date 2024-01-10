@@ -31,7 +31,7 @@ Features include:
 * GPIO16
 * GPIO5
 
-<img width="386" alt="ESP32 4 Channel Stepper Driver 8 RC Inputs 24V" src="https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/7bbdb018-d93a-4415-a328-c40872010378">  <img width="384" alt="ESP32 4 Channel Stepper Driver Buffered 24V Max" src="https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/2432704d-869a-4799-bbe5-e9475c5b52c9">
+<img width="386" alt="ESP32 4 Channel Stepper Driver 8 RC Inputs 24V" src="https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/7bbdb018-d93a-4415-a328-c40872010378">            <img width="384" alt="ESP32 4 Channel Stepper Driver Buffered 24V Max" src="https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/2432704d-869a-4799-bbe5-e9475c5b52c9">
 
 # MCU / Stepper Pin Mappings
 
