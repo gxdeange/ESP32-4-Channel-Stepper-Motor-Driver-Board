@@ -35,7 +35,7 @@ Features include:
 
 # ESP32 4-Channel Stepper Motor Driver Board 10V MAX
 
-**This version has the same 8 GPIO's with RC Filtered Inputs (can also be used as outputs) but is limited to 10V MAX. This is ideal for battery powered projects**
+**This version has the same 8 GPIO's with RC Filtered Inputs (can also be used as outputs) but is limited to 10V MAX with approximately 600mA (Max) Current output. This is ideal for battery powered projects**
 
 <img width="390" alt="ESP32 Trinamic 4 Channel Stepper Motor driver 10V MAX" src="https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board/assets/57690555/af50fc6b-8172-4e3f-a7ca-185d6891c55b">
 
