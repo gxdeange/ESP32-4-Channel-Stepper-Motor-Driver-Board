@@ -20,7 +20,7 @@ Features include:
 
 ![ESP32 4 Channel Stepper Driver](https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/b742409b-7b8b-4cf7-86d9-4431948145e5)
 
-**These versions have 8 GPIO's with either RC Filtered Inputs or Buffered Scmitt Trigger Inputs**
+**These versions have 8 GPIO's with either RC Filtered Inputs (can be used as outputs) or Buffered Scmitt Trigger Inputs**
 
 * GPIO39
 * GPIO34
@@ -32,6 +32,12 @@ Features include:
 * GPIO5
 
 <img width="386" alt="ESP32 4 Channel Stepper Driver 8 RC Inputs 24V" src="https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/7bbdb018-d93a-4415-a328-c40872010378">            <img width="384" alt="ESP32 4 Channel Stepper Driver Buffered 24V Max" src="https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/2432704d-869a-4799-bbe5-e9475c5b52c9">
+
+# ESP32 4-Channel Stepper Motor Driver Board 10V MAX
+
+**This version has the same 8 GPIO's with RC Filtered Inputs (can also be used as outputs) but is limited to 10V MAX. This is ideal for battery powered projects**
+
+<img width="390" alt="ESP32 Trinamic 4 Channel Stepper Motor driver 10V MAX" src="https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board/assets/57690555/af50fc6b-8172-4e3f-a7ca-185d6891c55b">
 
 # MCU / Stepper Pin Mappings
 
