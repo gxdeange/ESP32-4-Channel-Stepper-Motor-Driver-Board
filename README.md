@@ -35,7 +35,7 @@ Features include:
 
 # ESP32 4-Channel Stepper Motor Driver Board 10V MAX
 
-**These versions have the same 8 GPIO's with RC Filtered Inputs (can also be used as outputs) but is limited to 10V MAX with approximately 600mA or 300mA (Max) Current output (use Trinamic TMC2300 Driver IC's). These are ideal for battery powered projects or projects with small low current motors**
+**These versions have the same 8 GPIO's with RC Filtered Inputs (can also be used as outputs) and are limited to 10V MAX with approximately 600mA or 300mA (Max) Current output (Trinamic TMC2300 Driver IC's). These are ideal for battery powered projects or projects with small low current motors**
 
 <img width="389" alt="ESP32 Trinamic 4 Axis ST 600mA" src="https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board/assets/57690555/a96a2374-cbb9-4589-b62e-a30876dbf125">          <img width="382" alt="ESP32 Trinamic 4 Axis ST 300mA" src="https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board/assets/57690555/d253167b-c8e5-453b-8425-e985267ae92a">
 
