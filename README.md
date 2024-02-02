@@ -31,13 +31,14 @@ Features include:
 * GPIO16
 * GPIO5
 
-<img width="386" alt="ESP32 4 Channel Stepper Driver 8 RC Inputs 24V" src="https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/7bbdb018-d93a-4415-a328-c40872010378">            <img width="384" alt="ESP32 4 Channel Stepper Driver Buffered 24V Max" src="https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/2432704d-869a-4799-bbe5-e9475c5b52c9">
+<img width="386" alt="ESP32 4 Channel Stepper Driver 8 RC Inputs 24V" src="https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/7bbdb018-d93a-4415-a328-c40872010378">          <img width="384" alt="ESP32 4 Channel Stepper Driver Buffered 24V Max" src="https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board-24V-MAX/assets/57690555/2432704d-869a-4799-bbe5-e9475c5b52c9">
 
 # ESP32 4-Channel Stepper Motor Driver Board 10V MAX
 
-**This version has the same 8 GPIO's with RC Filtered Inputs (can also be used as outputs) but is limited to 10V MAX with approximately 600mA (Max) Current output. This is ideal for battery powered projects**
+**This version has the same 8 GPIO's with RC Filtered Inputs (can also be used as outputs) but is limited to 10V MAX with approximately 600mA or 300mA (Max) Current output. These are ideal for battery powered projects or projects with small low current motors**
 
-<img width="390" alt="ESP32 Trinamic 4 Channel Stepper Motor driver 10V MAX" src="https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board/assets/57690555/af50fc6b-8172-4e3f-a7ca-185d6891c55b">
+<img width="389" alt="ESP32 Trinamic 4 Axis ST 600mA" src="https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board/assets/57690555/a96a2374-cbb9-4589-b62e-a30876dbf125">          <img width="382" alt="ESP32 Trinamic 4 Axis ST 300mA" src="https://github.com/gxdeange/ESP32-4-Channel-Stepper-Motor-Driver-Board/assets/57690555/d253167b-c8e5-453b-8425-e985267ae92a">
+
 
 # MCU / Stepper Pin Mappings
 
